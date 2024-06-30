@@ -1,0 +1,17 @@
+.register-grandparent{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-parent{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-parent, .password-parent {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+}
